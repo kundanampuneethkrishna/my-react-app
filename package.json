@@ -1,6 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
+  "homepage": "https://kundanampuneethkrishna.github.io/my-react-app/",
   "private": true,
   "dependencies": {
     "-": "0.0.1",
@@ -37,10 +38,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version",
-      {
-      "homepage": "https://kundanampuneethkrishna.github.io/my-react-app/"
-    
-        }
+      
      ]
 
   }
