@@ -1,8 +1,9 @@
 {
-  "homepage": "https://kundanampuneethkrishna.github.io/my-react-app",
+  
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kundanampuneethkrishna.github.io/my-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -23,7 +24,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "rect-app"
   },
   "browserslist": {
     "production": [
