@@ -1,0 +1,38 @@
+{
+	"profiles":[
+		{
+			"basic":{
+				"name":"PUNEETH",
+				"role":"FS Developer",
+				"phone":"9182250280",
+			    "email":"kundanampuneethkrishna@gmail.com"
+			
+			},
+			"carrer":"To Become FullStack Developer",
+			"technicalskills":"Programming languages:c,c++,java,python",
+			"technicalskills1":"Databases:oracle,sql,mysql",
+			"technicalskills2":"Operting System:windows,linux,dos",
+			"workshops":"1.Android App Development Through APSSDC",
+			"workshops1":"2.Web Designing Through APSSDC",
+		    "workshops2":"3.Artificial Intelligence Internship Through Cognibot"
+
+	},
+
+	
+			{
+			"basic":{
+				"name":"RAVI",
+				"role":"SE Developer",
+				"phone":"925834685",
+				"email":"ravi@gmail.com"
+			},
+			"carrer":"To Become Software Developer",
+			"technicalskills":"Programming languages:c,c++,ruby",
+			"technicalskills1":"Databases:oracle,DB2,MongoDB",
+			"technicalskills2":"Operting System:windows,chrome os,ubuntu",
+			"workshops":"1.Android App Development Through IIT",
+			"workshops1":"2.Web Designing Through APSSDC"
+			
+			}
+		]
+}
