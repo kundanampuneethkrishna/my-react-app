@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kundanampuneethkrishna/my-react-app.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/kundanampuneethkrishna/my-react-app.git/static/js/main.f1f4916c.chunk.js",
-    "main.js.map": "/kundanampuneethkrishna/my-react-app.git/static/js/main.f1f4916c.chunk.js.map",
+    "main.js": "/kundanampuneethkrishna/my-react-app.git/static/js/main.d1579ee6.chunk.js",
+    "main.js.map": "/kundanampuneethkrishna/my-react-app.git/static/js/main.d1579ee6.chunk.js.map",
     "runtime-main.js": "/kundanampuneethkrishna/my-react-app.git/static/js/runtime-main.77095e5e.js",
     "runtime-main.js.map": "/kundanampuneethkrishna/my-react-app.git/static/js/runtime-main.77095e5e.js.map",
     "static/js/2.a1f1f4dc.chunk.js": "/kundanampuneethkrishna/my-react-app.git/static/js/2.a1f1f4dc.chunk.js",
     "static/js/2.a1f1f4dc.chunk.js.map": "/kundanampuneethkrishna/my-react-app.git/static/js/2.a1f1f4dc.chunk.js.map",
     "index.html": "/kundanampuneethkrishna/my-react-app.git/index.html",
-    "precache-manifest.e3a16481d1af1dbb1c347a748b84a5db.js": "/kundanampuneethkrishna/my-react-app.git/precache-manifest.e3a16481d1af1dbb1c347a748b84a5db.js",
+    "precache-manifest.52df0590a04164b6d46b986e70998337.js": "/kundanampuneethkrishna/my-react-app.git/precache-manifest.52df0590a04164b6d46b986e70998337.js",
     "service-worker.js": "/kundanampuneethkrishna/my-react-app.git/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/kundanampuneethkrishna/my-react-app.git/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.a1f1f4dc.chunk.js.LICENSE.txt": "/kundanampuneethkrishna/my-react-app.git/static/js/2.a1f1f4dc.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.77095e5e.js",
     "static/js/2.a1f1f4dc.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f1f4916c.chunk.js"
+    "static/js/main.d1579ee6.chunk.js"
   ]
 }
